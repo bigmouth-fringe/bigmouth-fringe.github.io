@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Путин",
+      "description": "Президент России",
+      "icon": "https://cdn25.img.ria.ru/images/155946/25/1559462529_0:161:3071:1888_600x0_80_0_0_a2d1e77a3124631465a2ee1334e08720.jpg"
+    },
+    {
+      "name": "Зеленский",
+      "description": "Президент Украины",
+      "icon": "https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/3/10/755761587761103.jpeg"
+    },
+    {
+      "name": "Лукашенко",
+      "description": "Президент Беларуссии",
+      "icon": "https://sm-news.ru/wp-content/uploads/2019/12/20/630_360_1522415766-9984.jpg"
+    }
+]
